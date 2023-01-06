@@ -1,5 +1,5 @@
 # Required Practical Simulations
-## If your anti-virus goes off when downloading it, ignore it and carry on with the download. This isn't due to the contents of the file, but rather the file type being an .exe (executable) file, which anti-malware softwares are by default suspicious of. The alternative to this would be to send the raw source code, but that requires a lot of work on your end to get your device ready to be able to run the code.
+### Note: If your anti-virus goes off when downloading it, ignore it and carry on with the download. This isn't due to the contents of the file, but rather the file type being an .exe (executable) file, which anti-malware softwares are by default suspicious of. The alternative to this would be to send the raw source code, but that requires a lot of work on your end to get your device ready to be able to run the code.
 
 In order to download the file, click on the Code button that is in green and click "Download Zip".
 
